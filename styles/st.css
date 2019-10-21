@@ -13,3 +13,9 @@ h1 {
 p {
   color: 	White;
 }
+
+
+p.serif {
+  font-family: "impact", Times, serif;
+}
+
