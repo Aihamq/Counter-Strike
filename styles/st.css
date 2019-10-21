@@ -1,4 +1,6 @@
 body {
- background-image: url("https://static2.esportal.com/_yAdkz90BMxJRg/full.jpg");
-
+ background-image: url("http://media.steampowered.com/apps/csgo/blog/images/wallpaper_nologo.jpg");
+ background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
